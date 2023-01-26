@@ -2,7 +2,7 @@
     "notas": [
         {
             "id": 1,
-            "titulo": "Estudar JS",
+            "titulo": "Estudar JSon Server",
             "status": true
         }
     ]
